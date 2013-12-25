@@ -1,1 +1,1 @@
-document.writeln('Hello, wordl!');
+document.writeln('Hello, world!');
